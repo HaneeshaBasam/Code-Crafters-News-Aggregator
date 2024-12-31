@@ -20,9 +20,9 @@ Aggregates only from trusted and verified sources.
 Provides fallback mechanisms for missing or incomplete data.
 
 Tech Stack
-Frontend: HTML, CSS, JavaScript
-API: NewsData.io API
-Backend: JavaScript (fetch API for API calls)
+1. Frontend: HTML, CSS, JavaScript
+2. API: NewsData.io API
+3. Backend: JavaScript (fetch API for API calls)
 
 Installation and Setup
 1. Clone the repository: git clone https://github.com/HaneeshaBasam/code-crafters-news-aggregator.git
