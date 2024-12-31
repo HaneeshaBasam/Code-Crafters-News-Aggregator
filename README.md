@@ -30,14 +30,6 @@ Navigate to the project directory: cd code-crafters-news-aggregator
 Obtain an API key from NewsData.io and replace YOUR_API_KEY in the script.js file.
 Open the index.html file in your browser to view the application.
 
-Project Structure
-news-aggregator/
-├── index.html          # Main HTML file
-├── styles.css          # Styling for the application
-├── script.js           # JavaScript logic
-├── assets/             # Images and icons
-└── README.md           # Project documentation
-
 How It Works
 The application fetches news data using the NewsData.io API.
 News articles are categorized into predefined sections (e.g., Sports, Technology).
